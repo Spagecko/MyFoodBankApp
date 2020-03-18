@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ReactFoodBank/myfoodbank/static/css/main.45aefad9.chunk.css",
-    "main.js": "/ReactFoodBank/myfoodbank/static/js/main.00a0a580.chunk.js",
-    "main.js.map": "/ReactFoodBank/myfoodbank/static/js/main.00a0a580.chunk.js.map",
-    "runtime-main.js": "/ReactFoodBank/myfoodbank/static/js/runtime-main.485aab49.js",
-    "runtime-main.js.map": "/ReactFoodBank/myfoodbank/static/js/runtime-main.485aab49.js.map",
-    "static/js/2.b7eced12.chunk.js": "/ReactFoodBank/myfoodbank/static/js/2.b7eced12.chunk.js",
-    "static/js/2.b7eced12.chunk.js.map": "/ReactFoodBank/myfoodbank/static/js/2.b7eced12.chunk.js.map",
-    "index.html": "/ReactFoodBank/myfoodbank/index.html",
-    "precache-manifest.2be2d0f8f19f8d88bc989841963b633e.js": "/ReactFoodBank/myfoodbank/precache-manifest.2be2d0f8f19f8d88bc989841963b633e.js",
-    "service-worker.js": "/ReactFoodBank/myfoodbank/service-worker.js",
-    "static/css/main.45aefad9.chunk.css.map": "/ReactFoodBank/myfoodbank/static/css/main.45aefad9.chunk.css.map",
-    "static/js/2.b7eced12.chunk.js.LICENSE.txt": "/ReactFoodBank/myfoodbank/static/js/2.b7eced12.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/ReactFoodBank/myfoodbank/static/media/logo.5d5d9eef.svg"
+    "main.css": "/MyFoodBankApp.git/static/css/main.45aefad9.chunk.css",
+    "main.js": "/MyFoodBankApp.git/static/js/main.71816aaf.chunk.js",
+    "main.js.map": "/MyFoodBankApp.git/static/js/main.71816aaf.chunk.js.map",
+    "runtime-main.js": "/MyFoodBankApp.git/static/js/runtime-main.37dd2376.js",
+    "runtime-main.js.map": "/MyFoodBankApp.git/static/js/runtime-main.37dd2376.js.map",
+    "static/js/2.b7eced12.chunk.js": "/MyFoodBankApp.git/static/js/2.b7eced12.chunk.js",
+    "static/js/2.b7eced12.chunk.js.map": "/MyFoodBankApp.git/static/js/2.b7eced12.chunk.js.map",
+    "index.html": "/MyFoodBankApp.git/index.html",
+    "precache-manifest.dc1e7206fa2210d8e30930138c55a319.js": "/MyFoodBankApp.git/precache-manifest.dc1e7206fa2210d8e30930138c55a319.js",
+    "service-worker.js": "/MyFoodBankApp.git/service-worker.js",
+    "static/css/main.45aefad9.chunk.css.map": "/MyFoodBankApp.git/static/css/main.45aefad9.chunk.css.map",
+    "static/js/2.b7eced12.chunk.js.LICENSE.txt": "/MyFoodBankApp.git/static/js/2.b7eced12.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/MyFoodBankApp.git/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.485aab49.js",
+    "static/js/runtime-main.37dd2376.js",
     "static/js/2.b7eced12.chunk.js",
     "static/css/main.45aefad9.chunk.css",
-    "static/js/main.00a0a580.chunk.js"
+    "static/js/main.71816aaf.chunk.js"
   ]
 }
